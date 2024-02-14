@@ -1,0 +1,23 @@
+{
+  "name": "nigerian-states",
+  "version": "1.0.0",
+  "description": "An npm package for details about Nigeria, her states, geopolitical zones, senatorial districts, local governments, cultures, populations, etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otavie/nigeria-info-hub.git"
+  },
+  "keywords": [
+    "Nigeria",
+    "Naija"
+  ],
+  "author": "Otavie Okuoyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otavie/nigeria-info-hub/issues"
+  },
+  "homepage": "https://github.com/Otavie/nigeria-info-hub#readme"
+}
